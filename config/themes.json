@@ -1,0 +1,14 @@
+{
+  "active": "TH1",
+  "themes": [
+    {
+      "id": "TH1",
+      "name": "AI数据中心光互连 / 磷化铟(InP)",
+      "dir": "themes/TH1_inp",
+      "stage": 1,
+      "stage_started": "2026-10-29",
+      "scope": "从800G/1.6T光模块往上拆：激光器芯片(EML/CW/DFB) → InP外延 → InP衬底 → 高纯原料(铟、红磷)/长晶设备；也要看硅光、薄膜铌酸锂等替代路线在链条中的位置"
+    }
+  ],
+  "_note": "stage/active 只由用户批准后修改；研究员只能在 proposals/ 里申请。"
+}
